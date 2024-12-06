@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35431.28
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDoList-Form", "ToDoList-Form\ToDoList-Form.csproj", "{D2718A2B-9384-43E9-87AF-50EF93002CA8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Datos", "Datos\Datos.csproj", "{908434ED-6836-419E-A4F6-E4156D594E68}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logic", "Logic\Logic.csproj", "{43BC1D09-7B50-40F5-8A9B-1AABB1335E8D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2718A2B-9384-43E9-87AF-50EF93002CA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2718A2B-9384-43E9-87AF-50EF93002CA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2718A2B-9384-43E9-87AF-50EF93002CA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2718A2B-9384-43E9-87AF-50EF93002CA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{908434ED-6836-419E-A4F6-E4156D594E68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{908434ED-6836-419E-A4F6-E4156D594E68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{908434ED-6836-419E-A4F6-E4156D594E68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{908434ED-6836-419E-A4F6-E4156D594E68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43BC1D09-7B50-40F5-8A9B-1AABB1335E8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43BC1D09-7B50-40F5-8A9B-1AABB1335E8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43BC1D09-7B50-40F5-8A9B-1AABB1335E8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43BC1D09-7B50-40F5-8A9B-1AABB1335E8D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C08CF688-A612-4397-B522-B48BE9280ACA}
+	EndGlobalSection
+EndGlobal
