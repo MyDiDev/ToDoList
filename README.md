@@ -8,6 +8,6 @@
 
 **Contribuciones:**
 
-  -**Estrella Marie**: Diseño del Programa y Aporte en la BD.
-  -**Alexa Azucena**: Diseño del Programa.
-  -**Diego Sanchez**: Desarrollo del Programa en General.
+  - **Estrella Marie**: Diseño del Programa y Aporte en la BD.
+  - **Alexa Azucena**: Diseño del Programa.
+  - **Diego Sanchez**: Desarrollo del Programa en General.
