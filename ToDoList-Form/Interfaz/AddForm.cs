@@ -19,7 +19,7 @@ namespace ToDoList_Form.Interfaz
 
 			Tarea task = new Tarea(descriptionBox.Text);
 
-			if (task.addTask() == true)
+			if (task.addTask())
 			{
 				MessageBox.Show("Tarea agregada Exitosamente", "EXITO", MessageBoxButtons.OK, MessageBoxIcon.Information);
 				Close();
