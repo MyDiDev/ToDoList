@@ -29,7 +29,7 @@ namespace ToDoList_Form.Interfaz
 				return;
 			}
 
-			if (task.EditTask(Id, descripcion) == true)
+			if (task.EditTask(Id, descripcion))
 			{
 				MessageBox.Show("Tarea editada Exitosamente", "EXITO", MessageBoxButtons.OK, MessageBoxIcon.Information);
 				Close();
